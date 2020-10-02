@@ -2,7 +2,7 @@
 
 <h3>I'm an Android Developer and a Pythoneer. :computer: :man_technologist:	:yellow_heart: </h3>
 
-🔭 I’m currently working as a software engineer at **Garvis.ai**, which is a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
+🔭 I’m currently working as a software engineer at **Garvis.ai**, a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
 - 🌱 I’m currently learning ... the new Android dependency injection framework - **Hilt**. 
 - 👯 I’m open to collaborate on ... on any novel idea of an Android or Python app that can change the world :monocle_face:
