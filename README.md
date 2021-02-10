@@ -10,6 +10,7 @@
 - 💬 Ask me about ... making a clean Android app architecure or a Python backend for a website :nerd_face: 
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail. :relaxed:	
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
+- I'm very curious and look forward to learn more about designing UIs for apps too.
 - ⚡ Fun fact: ... I'm addicted to listening to lofi music while I'm coding, I love reading (I devour a book a week), and I'm working on a fresh and smart, all-in-one project-task management and time tracking app for software dev teams, looking forward to revamp the way we collaborate on projects... :grin:	
 
 Find me on <br><br>
