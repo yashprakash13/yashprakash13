@@ -4,7 +4,7 @@
 
 🔭 I’m currently working as a software engineer at **Garvis.ai**, a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
-- 🌱 I’m currently learning ... the new Android dependency injection framework - **Hilt**. 
+- 🌱 I’m currently learning ... the new Android dependency injection framework - **Hilt**. I'm also slowly climbing up the hill of Devops. 😉 
 - 👯 I’m open to collaborate on ... on any novel idea of an Android or Python app that can change the world :monocle_face:
 - 🤔 I’m looking for opportunities to enhance my learning and experience.
 - 💬 Ask me about ... making a clean Android app architecure or a Python backend for a website :nerd_face: 
