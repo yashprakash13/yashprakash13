@@ -2,15 +2,15 @@
 
 <h3>I'm an Android Developer and a Pythoneer. :computer: :man_technologist:	:yellow_heart: </h3>
 
-🔭 I’m currently working as a software engineer at **Garvis.ai**, a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
+🔭 I’m currently working as a software engineer at [**Garvis.ai**](https://www.garvis.ai/), a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
 - 🌱 I’m currently learning ... the new Android dependency injection framework - **Hilt**. I'm also slowly climbing up the hill of Devops. 😉 
-- 👯 I’m open to collaborate on ... on any novel idea of an Android or Python app that can change the world :monocle_face:
+- 👯 I’m open to collaborate on ... on any novel idea of an Android or Machine learning application that can change the world :monocle_face:
 - 🤔 I’m looking for opportunities to enhance my learning and experience.
 - 💬 Ask me about ... making a clean Android app architecure or a Python backend for a website :nerd_face: 
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail. :relaxed:	
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
-- I'm very curious and look forward to learn more about designing UIs for apps too.
+- I'm very curious and look forward to learning more about designing UIs for apps too.
 - ⚡ Fun fact: ... I'm addicted to listening to lofi music while I'm coding, I love reading (I devour a book a week), and I'm working on a fresh and smart, all-in-one project-task management and time tracking app for software dev teams, looking forward to revamp the way we collaborate on projects... :grin:	
 
 Find me on <br><br>
