@@ -11,7 +11,7 @@
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail. :relaxed:	
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
 - I'm very curious and look forward to learning more about designing UIs for apps too.
-- ⚡ Fun fact: ... I'm addicted to listening to lofi music while I'm coding, I love reading (I devour a book a week), and I'm working on a fresh and smart, all-in-one project-task management and time tracking app for software dev teams, looking forward to revamp the way we collaborate on projects... :grin:	
+- ⚡ Fun fact: ... I'm addicted to listening to lofi music while I'm coding, I love reading (I devour a book a week), and I'm working on a fresh and smart, all-in-one easy to use Python library for speeding up NLP application in real world projects... :grin:
 
 Find me on <br><br>
 [![linkedin](https://user-images.githubusercontent.com/34805906/94926440-6f361c00-04de-11eb-9d29-1e5bb0c9ceea.png)](https://www.linkedin.com/in/yashprakash13/) [![mail](https://user-images.githubusercontent.com/34805906/94926923-2af74b80-04df-11eb-9367-f5aff2e60438.png)](mailto:yashprakash13@gmail.com)  [![stackoverflow](https://user-images.githubusercontent.com/34805906/94926630-b1f7f400-04de-11eb-97ea-03e7369ef8f7.png)](https://stackoverflow.com/users/9465530/costa) [![twitter](https://user-images.githubusercontent.com/34805906/94928703-b96ccc80-04e1-11eb-82e5-3bebadc04714.png)](https://twitter.com/csandyash)
