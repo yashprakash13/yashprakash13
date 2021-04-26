@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently learning ... the **Django** way to build awesome websites with Python. I'm also slowly climbing up the hill of Devops for my ML projects. 😉 
 - 👯 I’m open to collaborate on ... on any novel idea of an application that can change the world :monocle_face:
-- 🤔 I’m looking for opportunities to enhance my learning and experience.
 - 💬 Ask me about ... solving a problem via machine learning, making a clean Android app architecure or a Python backend for a website :nerd_face: 
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail. :relaxed:	
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
-- I'm very curious and look forward to learning more about designing UIs for apps too.
 - ⚡ Fun fact about me: ... I'm addicted to listening to lofi music while I'm coding, I love reading (I devour one book a week), I love writing fiction and and I'm working on a fresh and smart, all-in-one easy to use Python library for speeding up semantic searches using NLP in real world projects... :grin:
 
 Find me via <br><br>
