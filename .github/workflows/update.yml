@@ -6,6 +6,8 @@ on:
       - master
   schedule:
     - cron: "45 21 * * *"
+  workflow_dispatch:
+    
 
 jobs:
   build-and-deploy:
