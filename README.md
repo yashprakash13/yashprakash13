@@ -9,7 +9,10 @@
 - 💬 Ask me about ... solving a problem via machine learning, building a clean Android app architecure or a Python backend for a website 
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail.
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I regularly write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
-- ⚡ Fun fact about me: ... I'm addicted to coffee, I love listening to lofi music while I'm coding, I love reading (I devour a book a week) and I love writing fiction. 
+- ⚡ Fun fact about me: ... I'm addicted to coffee, I enjoy listening to lofi music while I'm coding, I love reading (I devour a book a week) and I love writing fiction. 
+
+#### My favourite technologies to work with are:
+Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 ### Find me here <br><br>
 <a href="https://twitter.com/intent/follow?screen_name=csandyash&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
