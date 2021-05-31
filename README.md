@@ -11,6 +11,7 @@
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I regularly write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
 - ⚡ Fun fact about me: ... I'm addicted to coffee, I love listening to lofi music while I'm coding, I love reading (I devour a book a week) and I love writing fiction. 
 
-Find me via <br><br>
-[![linkedin](https://user-images.githubusercontent.com/34805906/94926440-6f361c00-04de-11eb-9d29-1e5bb0c9ceea.png)](https://www.linkedin.com/in/yashprakash13/) [![mail](https://user-images.githubusercontent.com/34805906/94926923-2af74b80-04df-11eb-9367-f5aff2e60438.png)](mailto:yashprakash13@gmail.com)  [![stackoverflow](https://user-images.githubusercontent.com/34805906/94926630-b1f7f400-04de-11eb-97ea-03e7369ef8f7.png)](https://stackoverflow.com/users/9465530/costa) [![twitter](https://user-images.githubusercontent.com/34805906/94928703-b96ccc80-04e1-11eb-82e5-3bebadc04714.png)](https://twitter.com/csandyash)
-
+### Find me here <br><br>
+<a href="https://twitter.com/intent/follow?screen_name=csandyash&tw_p=followbutton" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@ipom" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yashprakash13" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
