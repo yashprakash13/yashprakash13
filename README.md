@@ -21,3 +21,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 <a href="mailto:yash@yashprakash.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### My latest stories on Medium
+ - [The Nice Way To Use Docker With VSCode](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=rss-9ba949960063------2)
+ - [A 3 Point Guide To Writing Better Code in Python](https://medium.com/this-code/a-3-point-guide-to-writing-better-code-in-python-762e0c46f178?source=rss-9ba949960063------2)
+ - [The Reusable Python Logging Template For All Your Data Science Apps](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540?source=rss-9ba949960063------2)
+ - [How To Use Bash To Automate The Boring Stuff For Data Science](https://towardsdatascience.com/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe?source=rss-9ba949960063------2)
