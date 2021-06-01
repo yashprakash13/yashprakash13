@@ -1,10 +1,12 @@
 <p  align="left" > <img width=53.5%  src="https://user-images.githubusercontent.com/34805906/94922526-0481e200-04d8-11eb-9300-e42c9bfea9f8.png"></p> 
 
-<h3>I do Data Science and also build Android apps as a hobby. :computer:  :yellow_heart: </h3>
+<h3>I do Data Science and also build Android apps and experiment with Python as a hobby. :computer:  :yellow_heart: </h3>
+
+I love to be involved in writing fresh, productive apps that can, even in a small way, simplify a crucial lifestyle task and transform a mental drudgery to a screen-tap respite. 
 
 🔭 I’m currently working as a software engineer at [**Garvis.ai**](https://www.garvis.ai/), a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
-- 🌱 I’m currently learning ... the **Django** way to build awesome websites with Python. I'm also slowly climbing up the hill of Devops for my ML projects. 
+- 🌱 I’m presently learning ... the **Django** way to build awesome websites with Python. I'm also slowly climbing up the hill of Devops for my ML projects. 
 - 👯 I’m open to collaborate on ... on any novel idea of an ML application that can change the world.
 - 💬 Ask me about ... solving a problem via machine learning, building a clean Android app architecure or a Python backend for a website 
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail.
