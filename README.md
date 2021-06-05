@@ -2,7 +2,7 @@
 
 <h3>I do Data Science and also build Android apps and experiment with Python as a hobby. :computer:  :yellow_heart: </h3>
 
-I love to be involved in writing fresh, productive apps that can, even in a small way, simplify a crucial lifestyle task and transform a mental drudgery to a screen-tap respite. 
+I love to be involved in writing fresh, productive apps that can, even in a small way, simplify a crucial lifestyle task and transform a mental drudgery to a screen-tap respite.  
 
 🔭 I’m currently working as a software engineer at [**Garvis.ai**](https://www.garvis.ai/), a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
