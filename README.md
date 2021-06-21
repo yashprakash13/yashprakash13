@@ -24,7 +24,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
 ### My latest stories on Medium
+ - [The Easy Way to Prettify Your Terminal](https://towardsdatascience.com/the-easy-way-to-prettify-your-terminal-24da896b031a?source=rss-9ba949960063------2)
  - [The Quick Guide To Using Environment Variables in Python](https://towardsdatascience.com/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e?source=rss-9ba949960063------2)
  - [The Nice Way To Use Docker With VSCode](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=rss-9ba949960063------2)
  - [A 3 Point Guide To Writing Better Code in Python](https://medium.com/this-code/a-3-point-guide-to-writing-better-code-in-python-762e0c46f178?source=rss-9ba949960063------2)
- - [The Reusable Python Logging Template For All Your Data Science Apps](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540?source=rss-9ba949960063------2)
