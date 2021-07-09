@@ -24,6 +24,8 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
 ### My latest stories on Medium
+ - [Code Formatting in Visual Studio Code — The Essential Python Snippet](https://medium.com/this-code/code-formatting-in-visual-studio-code-the-essential-python-snippet-43eb939892f2?source=rss-9ba949960063------2)
+ - [Backing Up, Flushing and Reloading the Database — Django Snippets](https://medium.com/this-code/backing-up-flushing-and-reloading-the-database-django-snippets-5b4e152d4b48?source=rss-9ba949960063------2)
  - [11 Essential Tricks To Demystify Dates in Pandas](https://towardsdatascience.com/11-essential-tricks-to-demystify-dates-in-pandas-8644ec591cf1?source=rss-9ba949960063------2)
  - [The Easy Way to Prettify Your Terminal](https://towardsdatascience.com/the-easy-way-to-prettify-your-terminal-24da896b031a?source=rss-9ba949960063------2)
  - [The Quick Guide To Using Environment Variables in Python](https://towardsdatascience.com/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e?source=rss-9ba949960063------2)
@@ -32,5 +34,3 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [The Reusable Python Logging Template For All Your Data Science Apps](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540?source=rss-9ba949960063------2)
  - [How To Use Bash To Automate The Boring Stuff For Data Science](https://towardsdatascience.com/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe?source=rss-9ba949960063------2)
  - [Five Numpy Functions You Should Understand](https://towardsdatascience.com/five-numpy-functions-you-should-understand-e0e35704e7d2?source=rss-9ba949960063------2)
- - [7 Awesome Jupyter Utilities That You Should Be Aware Of](https://pub.towardsai.net/7-awesome-jupyter-utilities-that-you-should-be-aware-of-f3afdb75c2b?source=rss-9ba949960063------2)
- - [26 Datasets For Your Data Science Projects](https://towardsdatascience.com/26-datasets-for-your-data-science-projects-658601590a4c?source=rss-9ba949960063------2)
