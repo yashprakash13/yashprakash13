@@ -24,6 +24,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
 ### My latest stories on Medium
+ - [Pipenv Essential Snippets](https://medium.com/this-code/pipenv-essential-snippets-4ba976270f5b?source=rss-9ba949960063------2)
  - [Code Formatting in Visual Studio Code — The Essential Python Snippet](https://medium.com/this-code/code-formatting-in-visual-studio-code-the-essential-python-snippet-43eb939892f2?source=rss-9ba949960063------2)
  - [Backing Up, Flushing and Reloading the Database — Django Snippets](https://medium.com/this-code/backing-up-flushing-and-reloading-the-database-django-snippets-5b4e152d4b48?source=rss-9ba949960063------2)
  - [11 Essential Tricks To Demystify Dates in Pandas](https://towardsdatascience.com/11-essential-tricks-to-demystify-dates-in-pandas-8644ec591cf1?source=rss-9ba949960063------2)
@@ -33,4 +34,3 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [A 3 Point Guide To Writing Better Code in Python](https://medium.com/this-code/a-3-point-guide-to-writing-better-code-in-python-762e0c46f178?source=rss-9ba949960063------2)
  - [The Reusable Python Logging Template For All Your Data Science Apps](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540?source=rss-9ba949960063------2)
  - [How To Use Bash To Automate The Boring Stuff For Data Science](https://towardsdatascience.com/how-to-use-bash-to-automate-the-boring-stuff-for-data-science-d447cd23fffe?source=rss-9ba949960063------2)
- - [Five Numpy Functions You Should Understand](https://towardsdatascience.com/five-numpy-functions-you-should-understand-e0e35704e7d2?source=rss-9ba949960063------2)
