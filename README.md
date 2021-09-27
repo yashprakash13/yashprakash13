@@ -24,6 +24,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
 ### My latest stories on Medium
+ - [The Quick Guide To Making Your Own Dataset With Python](https://towardsdatascience.com/the-quick-guide-to-making-your-own-dataset-with-python-a28ae9f7f488?source=rss-9ba949960063------2)
  - [The Only Auto-Completion Extension You’ll Ever Need For Your Jupyter Notebooks](https://towardsdatascience.com/the-only-auto-completion-extension-youll-ever-need-for-your-jupyter-notebooks-87bbaecb7126?source=rss-9ba949960063------2)
  - [Pipenv Essential Snippets](https://medium.com/this-code/pipenv-essential-snippets-4ba976270f5b?source=rss-9ba949960063------2)
  - [Code Formatting in Visual Studio Code — The Essential Python Snippet](https://medium.com/this-code/code-formatting-in-visual-studio-code-the-essential-python-snippet-43eb939892f2?source=rss-9ba949960063------2)
@@ -33,4 +34,3 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [The Quick Guide To Using Environment Variables in Python](https://towardsdatascience.com/the-quick-guide-to-using-environment-variables-in-python-d4ec9291619e?source=rss-9ba949960063------2)
  - [The Nice Way To Use Docker With VSCode](https://towardsdatascience.com/the-nice-way-to-use-docker-with-vscode-f475c49aab1b?source=rss-9ba949960063------2)
  - [A 3 Point Guide To Writing Better Code in Python](https://medium.com/this-code/a-3-point-guide-to-writing-better-code-in-python-762e0c46f178?source=rss-9ba949960063------2)
- - [The Reusable Python Logging Template For All Your Data Science Apps](https://towardsdatascience.com/the-reusable-python-logging-template-for-all-your-data-science-apps-551697c8540?source=rss-9ba949960063------2)
