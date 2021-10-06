@@ -24,6 +24,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
 ### My latest stories on Medium
+ - [How To Be Efficient In Building And Maintaining A Writing Habit](https://medium.com/dear-elegant-chums/how-to-be-efficient-in-building-and-maintaining-a-writing-habit-73f85868742f?source=rss-9ba949960063------2)
  - [How Not To Feel Overwhelmed When Doing Something New](https://medium.com/dear-elegant-chums/how-not-to-feel-overwhelmed-when-doing-something-new-c44f2db957ed?source=rss-9ba949960063------2)
  - [3 Tips On Getting Better At Learning New Technologies](https://ipom.medium.com/3-tips-on-getting-better-at-learning-new-technologies-df306ffc0b6?source=rss-9ba949960063------2)
  - [I’ve Written Over 40 Tech Articles — It was Time I Published Something I’d Never Thought I Would](https://medium.com/dear-elegant-chums/ive-written-over-40-tech-articles-it-was-time-i-published-something-i-d-never-thought-i-would-ac5925f84008?source=rss-9ba949960063------2)
@@ -33,4 +34,3 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [Code Formatting in Visual Studio Code — The Essential Python Snippet](https://medium.com/this-code/code-formatting-in-visual-studio-code-the-essential-python-snippet-43eb939892f2?source=rss-9ba949960063------2)
  - [Backing Up, Flushing and Reloading the Database — Django Snippets](https://medium.com/this-code/backing-up-flushing-and-reloading-the-database-django-snippets-5b4e152d4b48?source=rss-9ba949960063------2)
  - [11 Essential Tricks To Demystify Dates in Pandas](https://towardsdatascience.com/11-essential-tricks-to-demystify-dates-in-pandas-8644ec591cf1?source=rss-9ba949960063------2)
- - [The Easy Way to Prettify Your Terminal](https://towardsdatascience.com/the-easy-way-to-prettify-your-terminal-24da896b031a?source=rss-9ba949960063------2)
