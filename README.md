@@ -24,7 +24,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 <a href="mailto:yash@yashprakash.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-### My Writing Pad
+### My Writing Pad <sup>(NEW 🥳)</sup>
 
 [***Dear Elegant Chums***](https://medium.com/dear-elegant-chums) is my way of expressing my unapologetically unconventional perspectives on life, productivity, human behaviour, and writing.
 
