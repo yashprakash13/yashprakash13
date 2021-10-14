@@ -37,6 +37,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [I’ve Written Over 40 Tech Articles — It was Time I Published Something I’d Never Thought I Would](https://medium.com/dear-elegant-chums/ive-written-over-40-tech-articles-it-was-time-i-published-something-i-d-never-thought-i-would-ac5925f84008?source=rss-9ba949960063------2)
  - [The Quick Guide To Making Your Own Dataset With Python](https://towardsdatascience.com/the-quick-guide-to-making-your-own-dataset-with-python-a28ae9f7f488?source=rss-9ba949960063------2)
  ### My latest stories on Medium
+ - [How To Setup 2 Or More Github Accounts On One Machine](https://pub.towardsai.net/how-to-setup-2-or-more-github-accounts-on-one-machine-c2b1ff0ea435?source=rss-9ba949960063------2)
  - [Why Keeping A Todo-List Is One Of My Favourite Ways To Manage My Goals](https://medium.com/dear-elegant-chums/why-keeping-a-todo-list-is-one-of-my-favourite-ways-to-manage-my-goals-f502ed27313c?source=rss-9ba949960063------2)
  - [How To Be Efficient In Building And Maintaining A Writing Habit](https://medium.com/dear-elegant-chums/how-to-be-efficient-in-building-and-maintaining-a-writing-habit-73f85868742f?source=rss-9ba949960063------2)
  - [How Not To Feel Overwhelmed When Doing Something New](https://medium.com/dear-elegant-chums/how-not-to-feel-overwhelmed-when-doing-something-new-c44f2db957ed?source=rss-9ba949960063------2)
@@ -46,4 +47,3 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [The Only Auto-Completion Extension You’ll Ever Need For Your Jupyter Notebooks](https://towardsdatascience.com/the-only-auto-completion-extension-youll-ever-need-for-your-jupyter-notebooks-87bbaecb7126?source=rss-9ba949960063------2)
  - [Pipenv Essential Snippets](https://medium.com/this-code/pipenv-essential-snippets-4ba976270f5b?source=rss-9ba949960063------2)
  - [Code Formatting in Visual Studio Code — The Essential Python Snippet](https://medium.com/this-code/code-formatting-in-visual-studio-code-the-essential-python-snippet-43eb939892f2?source=rss-9ba949960063------2)
- - [Backing Up, Flushing and Reloading the Database — Django Snippets](https://medium.com/this-code/backing-up-flushing-and-reloading-the-database-django-snippets-5b4e152d4b48?source=rss-9ba949960063------2)
