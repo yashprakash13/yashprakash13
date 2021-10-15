@@ -7,6 +7,8 @@ def update_readme_medium_posts(medium_feed, readme_base, join_on):
     d = feedparser.parse(medium_feed)
     posts = []
     for item in d.entries:
+        if len(posts) >= 5:
+            break
         if item.get('tags'):
             posts.append(f" - [{item['title']}]({item['link']})")
     posts_joined = '\n'.join(posts)
