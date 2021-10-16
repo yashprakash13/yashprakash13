@@ -35,5 +35,3 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
  - [How To Be Efficient In Building And Maintaining A Writing Habit](https://medium.com/dear-elegant-chums/how-to-be-efficient-in-building-and-maintaining-a-writing-habit-73f85868742f?source=rss-9ba949960063------2)
  - [How Not To Feel Overwhelmed When Doing Something New](https://medium.com/dear-elegant-chums/how-not-to-feel-overwhelmed-when-doing-something-new-c44f2db957ed?source=rss-9ba949960063------2)
  - [3 Tips On Getting Better At Learning New Technologies](https://ipom.medium.com/3-tips-on-getting-better-at-learning-new-technologies-df306ffc0b6?source=rss-9ba949960063------2)
- - [I’ve Written Over 40 Tech Articles — It was Time I Published Something I’d Never Thought I Would](https://medium.com/dear-elegant-chums/ive-written-over-40-tech-articles-it-was-time-i-published-something-i-d-never-thought-i-would-ac5925f84008?source=rss-9ba949960063------2)
- - [The Quick Guide To Making Your Own Dataset With Python](https://towardsdatascience.com/the-quick-guide-to-making-your-own-dataset-with-python-a28ae9f7f488?source=rss-9ba949960063------2)
