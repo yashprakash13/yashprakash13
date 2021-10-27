@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [31 Datasets For Your Next Data Science Project](https://towardsdatascience.com/31-datasets-for-your-next-data-science-project-6ef9a6f8cac6?source=rss-9ba949960063------2)
  - [Your Ideas Are Good Enough](https://medium.com/dear-elegant-chums/your-ideas-are-good-enough-61f356870f7e?source=rss-9ba949960063------2)
  - [Here Is My One Simple Way To Accomplish Daily Goals](https://medium.com/dear-elegant-chums/here-is-my-one-simple-way-to-accomplish-daily-goals-df76413a1f74?source=rss-9ba949960063------2)
  - [How To Setup 2 Or More Github Accounts On One Machine](https://pub.towardsai.net/how-to-setup-2-or-more-github-accounts-on-one-machine-c2b1ff0ea435?source=rss-9ba949960063------2)
  - [Why Keeping A Todo-List Is One Of My Favourite Ways To Manage My Goals](https://medium.com/dear-elegant-chums/why-keeping-a-todo-list-is-one-of-my-favourite-ways-to-manage-my-goals-f502ed27313c?source=rss-9ba949960063------2)
- - [How To Be Efficient In Building And Maintaining A Writing Habit](https://medium.com/dear-elegant-chums/how-to-be-efficient-in-building-and-maintaining-a-writing-habit-73f85868742f?source=rss-9ba949960063------2)
