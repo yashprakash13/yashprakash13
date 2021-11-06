@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [Put Down Your Phone For a While](https://medium.com/know-thyself-heal-thyself/put-down-your-phone-for-a-while-c7d6bfc40624?source=rss-9ba949960063------2)
  - [9 Special Data Structures in Python](https://python.plainenglish.io/9-special-data-structures-in-python-45faffb55d0e?source=rss-9ba949960063------2)
  - [Here’s My Best Hack of Never Running Out of Ideas to Write About](https://medium.com/illumination/heres-my-best-hack-of-never-running-out-of-ideas-to-write-about-2bed87421764?source=rss-9ba949960063------2)
  - [This 15 Minute Technique Will Boost Your Writing Output](https://medium.com/writers-blokke/this-15-minute-technique-will-boost-your-writing-output-760ff8f41698?source=rss-9ba949960063------2)
  - [Being Awkward Can Be Your Superpower](https://medium.com/the-happy-human/being-awkward-can-be-your-superpower-63dac65bdacd?source=rss-9ba949960063------2)
- - [7 Data Science Projects You Can Finish in a Weekend](https://medium.com/this-code/7-data-science-projects-you-can-finish-in-a-weekend-f4939d6cff42?source=rss-9ba949960063------2)
