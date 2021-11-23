@@ -30,7 +30,7 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
- - [21 VSCode Keyboard Shortcuts You Should Know](https://ipom.medium.com/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428?source=rss-9ba949960063------2)
+ - [21 VSCode Keyboard Shortcuts You Should Know](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428?source=rss-9ba949960063------2)
  - [Image Classification with Early Stopping — A Quick Tutorial](https://towardsdatascience.com/image-classification-with-early-stopping-a-quick-tutorial-58d3d346184c?source=rss-9ba949960063------2)
  - [5 Interesting Data Science Projects To Level Up Your Portfolio](https://medium.datadriveninvestor.com/5-interesting-data-science-projects-to-level-up-your-portfolio-f4d88c181061?source=rss-9ba949960063------2)
  - [Your Productivity is Inversely Correlated to Watching Productivity Advice](https://ipom.medium.com/your-productivity-is-inversely-correlated-to-watching-productivity-advice-1fb3cb025b73?source=rss-9ba949960063------2)
