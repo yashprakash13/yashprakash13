@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [After a Year of Writing Online, Here’s My Truth to Writing Viral Articles](https://medium.com/illumination/after-a-year-of-writing-online-heres-my-truth-to-writing-viral-articles-b1b0c7e4a8d9?source=rss-9ba949960063------2)
  - [Your Ideas Are Good Enough](https://medium.com/the-shortform/your-ideas-are-good-enough-984ae51162a9?source=rss-9ba949960063------2)
  - [The Nice Way To Manage Your Data Science Workflow](https://towardsdatascience.com/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2?source=rss-9ba949960063------2)
  - [21 VSCode Keyboard Shortcuts You Should Know](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428?source=rss-9ba949960063------2)
  - [Image Classification with Early Stopping — A Quick Tutorial](https://towardsdatascience.com/image-classification-with-early-stopping-a-quick-tutorial-58d3d346184c?source=rss-9ba949960063------2)
- - [5 Interesting Data Science Projects To Level Up Your Portfolio](https://medium.datadriveninvestor.com/5-interesting-data-science-projects-to-level-up-your-portfolio-f4d88c181061?source=rss-9ba949960063------2)
