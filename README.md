@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [Here’s How To Use  Jupyter Notebooks on Steroids — with Deepnote](https://towardsdatascience.com/heres-how-to-use-jupyter-notebooks-on-steroids-with-deepnote-c35251222358?source=rss-9ba949960063------2)
  - [After a Year of Writing Online, Here’s My Truth to Writing Viral Articles](https://medium.com/illumination/after-a-year-of-writing-online-heres-my-truth-to-writing-viral-articles-b1b0c7e4a8d9?source=rss-9ba949960063------2)
  - [Your Ideas Are Good Enough](https://medium.com/the-shortform/your-ideas-are-good-enough-984ae51162a9?source=rss-9ba949960063------2)
  - [The Nice Way To Manage Your Data Science Workflow](https://towardsdatascience.com/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2?source=rss-9ba949960063------2)
  - [21 VSCode Keyboard Shortcuts You Should Know](https://medium.com/geekculture/21-vscode-keyboard-shortcuts-you-should-know-1b96a65e9428?source=rss-9ba949960063------2)
- - [Image Classification with Early Stopping — A Quick Tutorial](https://towardsdatascience.com/image-classification-with-early-stopping-a-quick-tutorial-58d3d346184c?source=rss-9ba949960063------2)
