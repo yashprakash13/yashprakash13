@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [5 Common SQL Problems For You To Crush](https://towardsdatascience.com/5-common-sql-problems-for-you-to-crush-10a796258643?source=rss-9ba949960063------2)
  - [The Nice Way To Deploy An ML Model Using Docker](https://towardsdatascience.com/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8?source=rss-9ba949960063------2)
  - [Here’s How To Use  Jupyter Notebooks on Steroids — with Deepnote](https://towardsdatascience.com/heres-how-to-use-jupyter-notebooks-on-steroids-with-deepnote-c35251222358?source=rss-9ba949960063------2)
  - [After a Year of Writing Online, Here’s My Truth to Writing Viral Articles](https://medium.com/illumination/after-a-year-of-writing-online-heres-my-truth-to-writing-viral-articles-b1b0c7e4a8d9?source=rss-9ba949960063------2)
  - [Your Ideas Are Good Enough](https://medium.com/the-shortform/your-ideas-are-good-enough-984ae51162a9?source=rss-9ba949960063------2)
- - [The Nice Way To Manage Your Data Science Workflow](https://towardsdatascience.com/the-nice-way-to-manage-your-data-science-workflow-7fb92a2ee4a2?source=rss-9ba949960063------2)
