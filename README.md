@@ -14,7 +14,7 @@ I love to be involved in writing fresh, productive apps that can, even in a smal
 - ⚡ Fun fact about me: ... I'm addicted to coffee, I enjoy listening to lofi music while I'm coding, I love reading (I devour a book a week) and I love writing fiction. 
 
 #### My favourite technologies to work with are:
-Sklearn-Pandas-Plotly-Pytorch, FastAPI, Flask, Django, Docker, Streamlit
+Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
 
 
 ### Find me here <br><br>
