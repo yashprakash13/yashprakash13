@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [26 GitHub Repositories To Inspire Your Next Data Science Project](https://towardsdatascience.com/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c?source=rss-9ba949960063------2)
  - [How To Build Scikit-learn Pipelines Like A Pro](https://towardsdatascience.com/how-to-build-scikit-learn-pipelines-like-a-pro-107c1ffec225?source=rss-9ba949960063------2)
  - [5 Common SQL Problems For You To Crush](https://towardsdatascience.com/5-common-sql-problems-for-you-to-crush-10a796258643?source=rss-9ba949960063------2)
  - [The Nice Way To Deploy An ML Model Using Docker](https://towardsdatascience.com/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8?source=rss-9ba949960063------2)
  - [Here’s How To Use  Jupyter Notebooks on Steroids — with Deepnote](https://towardsdatascience.com/heres-how-to-use-jupyter-notebooks-on-steroids-with-deepnote-c35251222358?source=rss-9ba949960063------2)
- - [After a Year of Writing Online, Here’s My Truth to Writing Viral Articles](https://medium.com/illumination/after-a-year-of-writing-online-heres-my-truth-to-writing-viral-articles-b1b0c7e4a8d9?source=rss-9ba949960063------2)
