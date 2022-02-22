@@ -1,6 +1,6 @@
 <p  align="left" > <img width=53.5%  src="https://user-images.githubusercontent.com/34805906/94922526-0481e200-04d8-11eb-9300-e42c9bfea9f8.png"></p> 
 
-<h3>I do Data Science and also build Android apps and experiment with Python as a hobby. :computer:  :yellow_heart: </h3>
+<h3>I do Data Science, build Android apps, and experiment with Python as a hobby. :computer:  :yellow_heart: </h3>
 
 I love to be involved in writing fresh, productive apps that can, even in a small way, simplify a crucial lifestyle task and transform a mental drudgery to a screen-tap respite.  
 
