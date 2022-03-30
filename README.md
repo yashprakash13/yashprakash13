@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [The Easy Python Auto-code Formatting Guide](https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b?source=rss-9ba949960063------2)
  - [Are You Still Using ‘%’ or ‘format’ for Strings in Python? Use This Instead](https://python.plainenglish.io/are-you-still-using-or-format-for-strings-in-python-use-this-instead-72451009d19d?source=rss-9ba949960063------2)
  - [A Guide To ML Experiment Tracking — With Weights & Biases](https://towardsdatascience.com/a-guide-to-ml-experiment-tracking-with-weights-biases-93a3a2544413?source=rss-9ba949960063------2)
  - [The Easy Way To Do Data Exploration](https://towardsdatascience.com/the-easy-way-to-do-data-exploration-22b4b8e1dc20?source=rss-9ba949960063------2)
  - [The Kaggle Way to Tune Hyperparameters with Optuna](https://towardsdatascience.com/the-kaggle-way-to-tune-hyperparameters-with-optuna-285e59a0b95a?source=rss-9ba949960063------2)
- - [26 GitHub Repositories To Inspire Your Next Data Science Project](https://towardsdatascience.com/26-github-repositories-to-inspire-your-next-data-science-project-3023c24f4c3c?source=rss-9ba949960063------2)
