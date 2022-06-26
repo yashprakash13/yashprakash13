@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [Set up GitHub via SSH on a Remote Server](https://ipom.medium.com/set-up-github-via-ssh-on-a-remote-server-9348e3855f46?source=rss-9ba949960063------2)
  - [The Easy Way to Watch NPM builds — without reloading every damn time!](https://medium.com/this-code/the-easy-way-to-watch-npm-builds-without-reloading-every-damn-time-cd1fd14393cb?source=rss-9ba949960063------2)
  - [Django-Tailwind Setup — The Production Ready Way](https://medium.com/this-code/django-tailwind-setup-the-production-ready-way-bd217c8c85ac?source=rss-9ba949960063------2)
  - [The Other Side of Motivation Hacks](https://medium.com/dear-elegant-chums/the-other-side-of-motivation-hacks-ca1361b8957?source=rss-9ba949960063------2)
  - [The Easy Python Auto-code Formatting Guide](https://betterprogramming.pub/the-easy-python-auto-code-formatting-guide-e8300c82797b?source=rss-9ba949960063------2)
- - [Are You Still Using ‘%’ or ‘format’ for Strings in Python? Use This Instead](https://python.plainenglish.io/are-you-still-using-or-format-for-strings-in-python-use-this-instead-72451009d19d?source=rss-9ba949960063------2)
