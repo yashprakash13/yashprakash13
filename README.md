@@ -26,7 +26,7 @@ Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
 
 ### My Writing Pad <sup>(NEW 🥳)</sup>
 
-[***Dear Elegant Chums***](https://medium.com/dear-elegant-chums) is my way of expressing my unapologetically unconventional perspectives on life, productivity, human behaviour, and writing.
+[***Dear Elegant Chums***](https://medium.com/dear-elegant-chums) is my way of expressing my unapologetically unconventional perspectives on life, human behaviour, and writing.
 
 
  ### My latest stories on Medium
