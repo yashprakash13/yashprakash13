@@ -30,8 +30,8 @@ Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
 
 
  ### My latest stories on Medium
+ - [The Easy Python CI/CD Pipeline Using Docker Compose and GitHub Actions](https://towardsdatascience.com/the-easy-python-ci-cd-pipeline-using-docker-compose-and-github-actions-80498f47b341?source=rss-9ba949960063------2)
  - [The Easy Way to Use Config in ML Apps](https://medium.com/this-code/the-easy-way-to-use-config-in-ml-apps-1730a31d04dc?source=rss-9ba949960063------2)
  - [Setup SSH Config File For Easier Remote Access](https://medium.com/this-code/setup-ssh-config-file-for-easier-remote-access-d0d230bf0cdd?source=rss-9ba949960063------2)
  - [Set up GitHub via SSH on a Remote Server](https://medium.com/this-code/set-up-github-via-ssh-on-a-remote-server-9348e3855f46?source=rss-9ba949960063------2)
  - [The Easy Way to Watch NPM builds — without reloading every damn time!](https://medium.com/this-code/the-easy-way-to-watch-npm-builds-without-reloading-every-damn-time-cd1fd14393cb?source=rss-9ba949960063------2)
- - [Django-Tailwind Setup — The Production Ready Way](https://medium.com/this-code/django-tailwind-setup-the-production-ready-way-bd217c8c85ac?source=rss-9ba949960063------2)
