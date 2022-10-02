@@ -14,7 +14,7 @@ I love to be involved in writing fresh, productive apps that can, even in a smal
 - ⚡ Fun fact about me: ... I'm addicted to coffee, I enjoy listening to lofi music while I'm coding, I love reading (I devour a book a week) and I love writing fiction. 
 
 #### My favourite technologies to work with are:
-Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang microservices && web development, Dev and ML-Ops with Docker, Streamlit, Cloud platforms DigitalOcean, AWS and GCP. 
+Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang microservices && web development, Dev and ML-Ops with Docker and cloud platforms DigitalOcean, AWS and GCP, Git. 
 
 
 ### Find me here <br><br>
