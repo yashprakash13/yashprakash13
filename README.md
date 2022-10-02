@@ -7,14 +7,14 @@ I love to be involved in writing fresh, productive apps that can, even in a smal
 🔭 I’m currently a Computer Science Graduate student at the University of Toronto and working as a software engineering intern at [AMD](https://amd.com). Previously, I worked as a Data Scientist at [Garvis.ai](https://www.garvis.ai/), a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
 - 🌱 I’m presently learning ... the **Django** way to build awesome websites with Python. I'm also slowly climbing up the hill of Devops for my ML projects. 
-- 👯 I’m open to collaborate on ... on any novel idea of an ML application that can change the world.
-- 💬 Ask me about ... solving a problem via machine learning, building a clean Android app architecure or a Python backend for a website 
+- 👯 I’m open to collaborate on ... on any novel idea of an application that can change the world.
+- 💬 Ask me about ... solving a problem with data and/or machine learning
 - 📫 How to reach me: ... I'm reachable via LinkedIn, Twitter and Mail.
 - :book: Visit my software development blog on [Medium](https://medium.com/@ipom). I regularly write for **This Code**, **Towards Data Sciene**, and **Towards AI** publications. 
 - ⚡ Fun fact about me: ... I'm addicted to coffee, I enjoy listening to lofi music while I'm coding, I love reading (I devour a book a week) and I love writing fiction. 
 
 #### My favourite technologies to work with are:
-Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Docker, Streamlit
+Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang microservices && web development, Dev and ML-Ops with Docker, Streamlit, Cloud platforms DigitalOcean, AWS and GCP. 
 
 
 ### Find me here <br><br>
