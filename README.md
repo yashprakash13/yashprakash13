@@ -30,8 +30,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [A Python Development Utility You Should Know](https://medium.com/this-code/a-python-development-utility-you-should-know-86d6b2b7d5d2?source=rss-9ba949960063------2)
  - [Building a Golang Discord Bot- Part 2: Sticky Message Bot](https://medium.com/this-code/building-a-golang-discord-bot-part-2-sticky-message-bot-e24b0a4ea58f?source=rss-9ba949960063------2)
  - [Building a Golang Discord Bot- Part 1: Setup](https://medium.com/this-code/building-a-golang-discord-bot-part-1-setup-fbaf73ae878f?source=rss-9ba949960063------2)
  - [Golang Development Utilities You Should Know](https://medium.com/this-code/golang-development-utilities-you-should-know-d91915959616?source=rss-9ba949960063------2)
  - [The Easy Python CI/CD Pipeline Using Docker Compose and GitHub Actions](https://towardsdatascience.com/the-easy-python-ci-cd-pipeline-using-docker-compose-and-github-actions-80498f47b341?source=rss-9ba949960063------2)
- - [The Easy Way to Use Config in ML Apps](https://medium.com/this-code/the-easy-way-to-use-config-in-ml-apps-1730a31d04dc?source=rss-9ba949960063------2)
