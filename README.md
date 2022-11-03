@@ -30,8 +30,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [6 Useful Command Line Tools You Should Know](https://medium.com/this-code/6-useful-command-line-tools-you-should-know-2bdb1d35d8c3?source=rss-9ba949960063------2)
  - [Understanding Golang Generics with Examples](https://medium.com/this-code/understanding-golang-generics-with-examples-907cfbd5023b?source=rss-9ba949960063------2)
  - [A Python Development Utility You Should Know](https://medium.com/this-code/a-python-development-utility-you-should-know-86d6b2b7d5d2?source=rss-9ba949960063------2)
  - [Building a Golang Discord Bot- Part 2: Sticky Message Bot](https://medium.com/this-code/building-a-golang-discord-bot-part-2-sticky-message-bot-e24b0a4ea58f?source=rss-9ba949960063------2)
  - [Building a Golang Discord Bot- Part 1: Setup](https://medium.com/this-code/building-a-golang-discord-bot-part-1-setup-fbaf73ae878f?source=rss-9ba949960063------2)
- - [Golang Development Utilities You Should Know](https://medium.com/this-code/golang-development-utilities-you-should-know-d91915959616?source=rss-9ba949960063------2)
