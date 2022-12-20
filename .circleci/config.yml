@@ -37,7 +37,7 @@ jobs:
           command: |
                   cd src/
                   python run_blog_posts.py
-                  python run_screenshot.py
+                  
       - run:
           name: Deploy
           command: |
