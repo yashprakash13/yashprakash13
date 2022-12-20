@@ -35,7 +35,7 @@ jobs:
       - run: 
           name: Run commands
           command: |
-                  cd ${GITHUB_WORKSPACE}/src/
+                  cd src/
                   python run_blog_posts.py
                   python run_screenshot.py
       - run:
