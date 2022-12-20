@@ -34,12 +34,14 @@ jobs:
           command: pip install feedparser pyppeteer
       - run: 
           name: Run commands
-          command: cd ${GITHUB_WORKSPACE}/src/
+          command: |
+                  cd ${GITHUB_WORKSPACE}/src/
                   python run_blog_posts.py
                   python run_screenshot.py
       - run:
           name: Deploy
-          command: git config user.name "${GITHUB_ACTOR}"
+          command: |
+                  git config user.name "${GITHUB_ACTOR}"
                   git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
                   git add .
                   git commit -am 'feat(auto generate) Updated medium profile posts and image'
