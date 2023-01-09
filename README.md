@@ -28,8 +28,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
- - [What happens When You Enter a URL into Your Browser?](https://medium.com/this-code/what-happens-when-you-enter-a-url-into-your-browser-d0e80c43e2f9?source=rss-9ba949960063------2)
- - [These Habits Make Me a Better Writer](https://medium.com/illumination/these-habits-make-me-a-better-writer-f34944f695b9?source=rss-9ba949960063------2)
- - [17 Golang Packages You Should Know](https://medium.com/this-code/17-golang-packages-you-should-know-c7f156b1270e?source=rss-9ba949960063------2)
- - [6 Useful Command Line Tools You Should Know](https://medium.com/this-code/6-useful-command-line-tools-you-should-know-2bdb1d35d8c3?source=rss-9ba949960063------2)
- - [Understanding Golang Generics with Examples](https://medium.com/this-code/understanding-golang-generics-with-examples-907cfbd5023b?source=rss-9ba949960063------2)
+ - [6 Steps I Use To Start A New Django Project](https://medium.com/this-code/6-steps-i-use-to-start-a-new-django-project-a5badc93f7ac?source=rss-9ba949960063------2)
+ - [What is JWT Authentication?](https://medium.com/geekculture/what-is-jwt-authentication-bf02186b266c?source=rss-9ba949960063------2)
+ - [Don’t Forget To Use These 6 Effective Django Utilities In Your Next Python Project](https://medium.com/this-code/dont-forget-to-use-these-6-effective-django-utilities-in-your-next-python-project-761c9207ef24?source=rss-9ba949960063------2)
+ - [Build and Conquer: A Framework for Learning](https://medium.com/dear-elegant-chums/build-and-conquer-a-framework-of-learning-f88ba71b9394?source=rss-9ba949960063------2)
+ - [Decoding Topological Sort in Python + Golang Side by Side](https://medium.com/this-code/decoding-topological-sort-in-python-golang-side-by-side-cd84d18fcf9a?source=rss-9ba949960063------2)
