@@ -25,7 +25,6 @@ jobs:
         run: |
           cd ${GITHUB_WORKSPACE}/src/
           python run_blog_posts.py
-          python run_screenshot.py
       - name: Deploy
         run: |
           git config user.name "${GITHUB_ACTOR}"
