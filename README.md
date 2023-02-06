@@ -28,8 +28,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [7 Common File Operations in Python with OS and Pathlib Modules](https://medium.com/this-code/7-common-file-operations-in-python-with-os-and-pathlib-modules-dc657fb12c13?source=rss-9ba949960063------2)
  - [6 Programming Tools That Are Indispensable In My Coding Arsenal](https://ipom.medium.com/6-programming-tools-that-are-indispensable-in-my-coding-arsenal-b0af1ea1f74c?source=rss-9ba949960063------2)
  - [6 Intermediate Python Tips For Better Code](https://medium.com/this-code/6-intermediate-python-tips-for-better-code-90c36ad71ba?source=rss-9ba949960063------2)
  - [17 things that hindsight in 2022 taught me](https://medium.com/dear-elegant-chums/17-things-that-hindsight-in-2022-taught-me-dbc79b2dcedb?source=rss-9ba949960063------2)
  - [Add This Cool Utility To Your GitHub README Today!](https://ipom.medium.com/add-this-cool-utility-to-your-github-readme-today-47b567d37d3?source=rss-9ba949960063------2)
- - [6 Steps I Use To Start A New Django Project](https://medium.com/this-code/6-steps-i-use-to-start-a-new-django-project-a5badc93f7ac?source=rss-9ba949960063------2)
