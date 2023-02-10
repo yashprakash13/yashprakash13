@@ -28,8 +28,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [26 VSCode Extensions For Your Developer Workflow](https://ipom.medium.com/26-vscode-extensions-for-your-developer-workflow-d9eb17c15e0f?source=rss-9ba949960063------2)
  - [A Full-Stack Project With React and FastAPI — Part 3](https://medium.com/this-code/a-full-stack-project-with-react-and-fastapi-part-3-db95c62fc151?source=rss-9ba949960063------2)
  - [A Full-Stack Project With React and FastAPI — Part 2](https://medium.com/this-code/a-full-stack-project-with-react-and-fastapi-part-2-f5540420d4aa?source=rss-9ba949960063------2)
  - [13 Amazing GitHub Repositories You Should Bookmark](https://ipom.medium.com/13-amazing-github-repositories-you-should-bookmark-677f651fec0b?source=rss-9ba949960063------2)
  - [A Full-Stack Project With React and FastAPI — Part 1](https://medium.com/this-code/a-full-stack-project-with-react-and-fastapi-part-1-82367f43911a?source=rss-9ba949960063------2)
- - [7 Common File Operations in Python with OS and Pathlib Modules](https://medium.com/this-code/7-common-file-operations-in-python-with-os-and-pathlib-modules-dc657fb12c13?source=rss-9ba949960063------2)
