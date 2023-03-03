@@ -28,8 +28,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [Adding Easy Google Authentication With Supabase In React Apps](https://levelup.gitconnected.com/adding-easy-google-authentication-with-supabase-in-react-apps-68c099a0dcf7?source=rss-9ba949960063------2)
  - [Automatic Deployments With Nginx And GitHub Actions: A Detailed Guide](https://levelup.gitconnected.com/automatic-deployments-with-nginx-and-github-actions-a-detailed-guide-5505c074cc9f?source=rss-9ba949960063------2)
  - [The DVC Guide: Data Version Control For All Your Data Science Projects](https://towardsdatascience.com/the-dvc-guide-data-version-control-for-all-your-data-science-projects-382d5b5aab00?source=rss-9ba949960063------2)
  - [9 FastAPI Resources You Need To Know](https://python.plainenglish.io/9-fastapi-resources-you-need-to-know-f050799ef1f6?source=rss-9ba949960063------2)
  - [26 VSCode Extensions For Your Developer Workflow](https://ipom.medium.com/26-vscode-extensions-for-your-developer-workflow-d9eb17c15e0f?source=rss-9ba949960063------2)
- - [A Full-Stack Project With React and FastAPI — Part 3](https://medium.com/this-code/a-full-stack-project-with-react-and-fastapi-part-3-db95c62fc151?source=rss-9ba949960063------2)
