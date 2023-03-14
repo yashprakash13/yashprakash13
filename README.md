@@ -22,11 +22,6 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 <a href="mailto:yash@yashprakash.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-### My Writing Pad <sup>(NEW 🥳)</sup>
-
-[***Dear Elegant Chums***](https://medium.com/dear-elegant-chums) is my way of expressing my unapologetically unconventional perspectives on life, human behaviour, and writing.
-
-
  ### My latest stories on Medium
  - [Golang Resources That I’m Using To Learn The Language](https://levelup.gitconnected.com/golang-resources-that-im-using-to-learn-the-language-a4321afd22e9?source=rss-9ba949960063------2)
  - [Adding Easy Google Authentication With Supabase In React Apps](https://levelup.gitconnected.com/adding-easy-google-authentication-with-supabase-in-react-apps-68c099a0dcf7?source=rss-9ba949960063------2)
