@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [4 Common Mistakes to Avoid As a Software Engineer](https://levelup.gitconnected.com/4-common-mistakes-to-avoid-as-a-software-engineer-1f6792b2e1a?source=rss-9ba949960063------2)
  - [13 Things To Do When Starting a New Role in Tech](https://levelup.gitconnected.com/13-things-to-do-when-starting-a-new-role-in-tech-d46d4ad99e11?source=rss-9ba949960063------2)
  - [Be Aware Of These Python Project Management Conventions](https://levelup.gitconnected.com/be-aware-of-these-python-project-management-conventions-60a6d265465a?source=rss-9ba949960063------2)
  - [The Easy React-Supabase Authentication And Session Storage](https://levelup.gitconnected.com/the-easy-react-supabase-authentication-and-session-storage-dedeb4abe45e?source=rss-9ba949960063------2)
  - [Golang Resources That I’m Using To Learn The Language](https://levelup.gitconnected.com/golang-resources-that-im-using-to-learn-the-language-a4321afd22e9?source=rss-9ba949960063------2)
- - [Adding Easy Google Authentication With Supabase In React Apps](https://levelup.gitconnected.com/adding-easy-google-authentication-with-supabase-in-react-apps-68c099a0dcf7?source=rss-9ba949960063------2)
