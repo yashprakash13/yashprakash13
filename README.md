@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [Integrating Stripe Payments into your React App with a FastAPI Backend — Part 2](https://levelup.gitconnected.com/integrating-stripe-payments-into-your-react-app-with-a-fastapi-backend-part-2-11f90985a218?source=rss-9ba949960063------2)
  - [Integrating Stripe Payments into your React App with a FastAPI backend — Part 1](https://levelup.gitconnected.com/integrating-stripe-payments-into-your-react-app-with-a-fastapi-backend-part-1-95aa0b9e309a?source=rss-9ba949960063------2)
  - [4 Common Mistakes to Avoid As a Software Engineer](https://levelup.gitconnected.com/4-common-mistakes-to-avoid-as-a-software-engineer-1f6792b2e1a?source=rss-9ba949960063------2)
  - [13 Things To Do When Starting a New Role in Tech](https://levelup.gitconnected.com/13-things-to-do-when-starting-a-new-role-in-tech-d46d4ad99e11?source=rss-9ba949960063------2)
  - [Be Aware Of These Python Project Management Conventions](https://levelup.gitconnected.com/be-aware-of-these-python-project-management-conventions-60a6d265465a?source=rss-9ba949960063------2)
- - [The Easy React-Supabase Authentication And Session Storage](https://levelup.gitconnected.com/the-easy-react-supabase-authentication-and-session-storage-dedeb4abe45e?source=rss-9ba949960063------2)
