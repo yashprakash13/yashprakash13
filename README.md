@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [Introduction to Caching — a System Design Primer: Part 1](https://levelup.gitconnected.com/introduction-to-caching-a-system-design-primer-part-1-321e2617bd25?source=rss-9ba949960063------2)
  - [Did you know you can write Switch statements in Python](https://levelup.gitconnected.com/did-you-know-you-can-write-switch-statements-in-python-1d11a2613e58?source=rss-9ba949960063------2)
  - [6 Ways ChatGPT Can Strengthen Your Day-to-Day Developer Workflow](https://ipom.medium.com/6-ways-chatgpt-can-strengthen-your-day-to-day-developer-workflow-e7580ab8bba1?source=rss-9ba949960063------2)
  - [Find Writing Tests Hard? Here’s How to Delegate it to an AI Model!](https://levelup.gitconnected.com/find-writing-tests-hard-heres-how-to-delegate-it-to-an-ai-model-8433683feb28?source=rss-9ba949960063------2)
  - [Integrating Stripe Payments into your React App with a FastAPI Backend — Part 2](https://levelup.gitconnected.com/integrating-stripe-payments-into-your-react-app-with-a-fastapi-backend-part-2-11f90985a218?source=rss-9ba949960063------2)
- - [Integrating Stripe Payments into your React App with a FastAPI backend — Part 1](https://levelup.gitconnected.com/integrating-stripe-payments-into-your-react-app-with-a-fastapi-backend-part-1-95aa0b9e309a?source=rss-9ba949960063------2)
