@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [The Great Divide In Making Money Online](https://ipom.medium.com/the-great-divide-in-making-money-online-b21f69c26389?source=rss-9ba949960063------2)
+ - [Deploying a FastAPI App with Nginx, Supervisor, and Gunicorn](https://levelup.gitconnected.com/deploying-a-fastapi-app-with-nginx-supervisor-and-gunicorn-1e97e7421b46?source=rss-9ba949960063------2)
  - [Introduction to Caching — a System Design Primer: Part 2](https://levelup.gitconnected.com/introduction-to-caching-a-system-design-primer-part-2-6fe6a7261602?source=rss-9ba949960063------2)
  - [Introduction to Caching — a System Design Primer: Part 1](https://levelup.gitconnected.com/introduction-to-caching-a-system-design-primer-part-1-321e2617bd25?source=rss-9ba949960063------2)
  - [Did you know you can write Switch statements in Python](https://levelup.gitconnected.com/did-you-know-you-can-write-switch-statements-in-python-1d11a2613e58?source=rss-9ba949960063------2)
- - [6 Ways ChatGPT Can Strengthen Your Day-to-Day Developer Workflow](https://ipom.medium.com/6-ways-chatgpt-can-strengthen-your-day-to-day-developer-workflow-e7580ab8bba1?source=rss-9ba949960063------2)
- - [Find Writing Tests Hard? Here’s How to Delegate it to an AI Model!](https://levelup.gitconnected.com/find-writing-tests-hard-heres-how-to-delegate-it-to-an-ai-model-8433683feb28?source=rss-9ba949960063------2)
