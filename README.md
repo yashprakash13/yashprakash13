@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [But Why Should You Choose To Create Online? 5 Reasons Why](https://ipom.medium.com/but-why-should-you-choose-to-create-online-5-reasons-why-47c863483578?source=rss-9ba949960063------2)
  - [The Great Divide In Making Money Online](https://ipom.medium.com/the-great-divide-in-making-money-online-b21f69c26389?source=rss-9ba949960063------2)
  - [Deploying a FastAPI App with Nginx, Supervisor, and Gunicorn](https://levelup.gitconnected.com/deploying-a-fastapi-app-with-nginx-supervisor-and-gunicorn-1e97e7421b46?source=rss-9ba949960063------2)
  - [Introduction to Caching — a System Design Primer: Part 2](https://levelup.gitconnected.com/introduction-to-caching-a-system-design-primer-part-2-6fe6a7261602?source=rss-9ba949960063------2)
  - [Introduction to Caching — a System Design Primer: Part 1](https://levelup.gitconnected.com/introduction-to-caching-a-system-design-primer-part-1-321e2617bd25?source=rss-9ba949960063------2)
- - [Did you know you can write Switch statements in Python](https://levelup.gitconnected.com/did-you-know-you-can-write-switch-statements-in-python-1d11a2613e58?source=rss-9ba949960063------2)
