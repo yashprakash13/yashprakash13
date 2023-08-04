@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [What is Serverless Technology? A Deep Dive — Part 1](https://levelup.gitconnected.com/what-is-serverless-technology-a-deep-dive-part-1-70abe7dc5dd9?source=rss-9ba949960063------2)
  - [Unraveling the Magic of Message Queues and How To Use Them](https://medium.com/geekculture/unraveling-the-magic-of-message-queues-and-how-to-use-them-be31e3020fba?source=rss-9ba949960063------2)
  - [Copy My $0 Personal Productivity System](https://medium.com/illumination/copy-my-0-personal-productivity-system-ce40ad699c30?source=rss-9ba949960063------2)
  - [But Why Should You Choose To Create Online? 5 Reasons Why](https://ipom.medium.com/but-why-should-you-choose-to-create-online-5-reasons-why-47c863483578?source=rss-9ba949960063------2)
  - [The Great Divide In Making Money Online](https://ipom.medium.com/the-great-divide-in-making-money-online-b21f69c26389?source=rss-9ba949960063------2)
- - [Deploying a FastAPI App with Nginx, Supervisor, and Gunicorn](https://levelup.gitconnected.com/deploying-a-fastapi-app-with-nginx-supervisor-and-gunicorn-1e97e7421b46?source=rss-9ba949960063------2)
