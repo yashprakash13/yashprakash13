@@ -2,7 +2,7 @@
 
 I love to be involved in writing fresh, productive apps that can, even in a small way, simplify a crucial lifestyle task and transform a mental drudgery to a screen-tap respite.  
 
-🔭 I’m currently a Computer Science Graduate student at the University of Toronto and working as a software engineering intern at [AMD](https://amd.com). Previously, I worked as a Data Scientist at [Garvis.ai](https://www.garvis.ai/), a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
+🔭 I’m currently a Software Engineer at DNEG, before that I've worked as a software engineer at [AMD](https://amd.com) on AI based code automation. Previously, I worked as a Data Scientist at [Garvis.ai](https://www.garvis.ai/), a cool startup located in Belgium and we are working to build smart, automated demand forecasting system for supply chains based on data science tools.
 
 - 🌱 I’m presently learning ... the **Web development with Go**. I'm also slowly climbing up the hill of Devops for my ML projects. 
 - 👯 I’m open to collaborate on ... on any novel idea of an application that can change the world.
