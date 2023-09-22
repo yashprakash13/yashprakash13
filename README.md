@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [Cutting Corners as a Content Creator Has Consequences](https://medium.com/new-writers-growth-ideas/cutting-corners-as-a-content-creator-has-consequences-c2924c05dd0e?source=rss-9ba949960063------2)
  - [5 Digital Product Ideas For You To Create Your Online Income](https://medium.com/illumination/5-digital-product-ideas-for-you-to-create-your-online-income-92ab2be77bc?source=rss-9ba949960063------2)
  - [A Serverless Case Study — Netflix’s Architecture](https://levelup.gitconnected.com/a-serverless-case-study-netflixs-architecture-e0742b478cbd?source=rss-9ba949960063------2)
  - [What is Serverless Technology? A Deep Dive — Part 1](https://levelup.gitconnected.com/what-is-serverless-technology-a-deep-dive-part-1-70abe7dc5dd9?source=rss-9ba949960063------2)
  - [Unraveling the Magic of Message Queues and How To Use Them](https://medium.com/geekculture/unraveling-the-magic-of-message-queues-and-how-to-use-them-be31e3020fba?source=rss-9ba949960063------2)
- - [Copy My $0 Personal Productivity System](https://medium.com/illumination/copy-my-0-personal-productivity-system-ce40ad699c30?source=rss-9ba949960063------2)
