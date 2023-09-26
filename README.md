@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [Developing Confidence is Easy, You Just Have to Lose the Complaining](https://medium.com/new-writers-growth-ideas/developing-confidence-is-easy-you-just-have-to-lose-the-complaining-8e3e08d5d12b?source=rss-9ba949960063------2)
  - [6 Ways to Improve your API Performance](https://levelup.gitconnected.com/6-ways-to-improve-your-api-performance-c7e0f1703060?source=rss-9ba949960063------2)
  - [Cutting Corners as a Content Creator Has Consequences](https://medium.com/new-writers-growth-ideas/cutting-corners-as-a-content-creator-has-consequences-c2924c05dd0e?source=rss-9ba949960063------2)
  - [5 Digital Product Ideas For You To Create Your Online Income](https://medium.com/illumination/5-digital-product-ideas-for-you-to-create-your-online-income-92ab2be77bc?source=rss-9ba949960063------2)
  - [A Serverless Case Study — Netflix’s Architecture](https://levelup.gitconnected.com/a-serverless-case-study-netflixs-architecture-e0742b478cbd?source=rss-9ba949960063------2)
- - [What is Serverless Technology? A Deep Dive — Part 1](https://levelup.gitconnected.com/what-is-serverless-technology-a-deep-dive-part-1-70abe7dc5dd9?source=rss-9ba949960063------2)
