@@ -23,8 +23,8 @@ Python ML/DL with Sklearn-Pandas-Plotly-Keras, FastAPI, Flask, Django, Golang mi
 
 
  ### My latest stories on Medium
+ - [I Made an AI SaaS App in a Weekend](https://levelup.gitconnected.com/i-made-an-ai-saas-app-in-a-weekend-92027724e31e?source=rss-9ba949960063------2)
  - [4 Mindful Decisions That Reduced My Overthinking to Almost Zero](https://medium.com/illumination/4-mindful-decisions-that-reduced-my-overthinking-to-almost-zero-620ca10f7c98?source=rss-9ba949960063------2)
  - [You Don’t Need To Be “Consistent” To Be a Successful Creator](https://medium.com/practice-in-public/you-dont-need-to-be-consistent-to-be-a-successful-creator-e3c85e08085a?source=rss-9ba949960063------2)
  - [The 6 traits of fearless people that make them (nearly) invincible](https://medium.com/practice-in-public/the-6-traits-of-fearless-people-that-make-them-nearly-invincible-8163afa2972a?source=rss-9ba949960063------2)
  - [Developing Confidence is Easy, You Just Have to Lose the Complaining](https://ipom.medium.com/developing-confidence-is-easy-you-just-have-to-lose-the-complaining-8e3e08d5d12b?source=rss-9ba949960063------2)
- - [6 Ways to Improve your API Performance](https://levelup.gitconnected.com/6-ways-to-improve-your-api-performance-c7e0f1703060?source=rss-9ba949960063------2)
