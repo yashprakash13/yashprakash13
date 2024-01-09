@@ -2,7 +2,7 @@
 
 I build software and write about it.
 
-I'm keen on working on projects that include Python(FastAPI, Flask, Django), DevOps(Docker, Jenkins, GitOps CI/CD, K8s), Cloud(AWS, GCP). 
+I'm keen on working on projects that include Python(FastAPI, Flask, Django), TypeScript, JavaScript, Go, DevOps(Docker, Jenkins, GitOps CI/CD, K8s), Cloud(AWS, GCP). 
 
 Find me here: <br><br>
 <a href="https://medium.com/@ipom" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
